@@ -1,7 +1,3 @@
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-#|r|e|d|a|n|d|g|r|e|e|n|.|c|o|.|u|k|
-#+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
 from flask import Flask, jsonify
 from flask_restful import Resource, Api, reqparse
 import nltk
